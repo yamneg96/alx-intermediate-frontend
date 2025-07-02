@@ -1,0 +1,4 @@
+Steps to install saas:
+1. open a terminal
+2. use the command ``` npm install -g sass ```
+3. use saas to our files accordingly.
